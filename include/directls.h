@@ -10,7 +10,7 @@
 #define DIRECTLS_H
 
 #include <dirent.h>
-
+#define MAXNAMLEN 1000
 
 /**
  目录结构

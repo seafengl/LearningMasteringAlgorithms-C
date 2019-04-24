@@ -1,5 +1,9 @@
 # 《算法精解：C语言描述》源码及Xcode工程、Linux工程
 
+1.添加windows支持，现在大部分程序在windows上都可以编译通过。
+
+2.添加cmake编译支持。
+
 Mac 下使用 Xcode 打开 `MasteringAlgorithms.xcodeproj` 即可。`Algorithms.xcodeproj` 为算法库文件工程。每个 Example 都是单独的运行文件。
 
 ## Mac 或者 Linux 命令行

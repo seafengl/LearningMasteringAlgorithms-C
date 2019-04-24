@@ -7,7 +7,7 @@
 //
 
 #include <sys/types.h>
-#include <sys/socket.h>
+#include <winsock.h>
 
 #include "compress.h"
 #include "transfer.h"
